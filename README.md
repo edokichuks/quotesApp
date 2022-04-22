@@ -1,16 +1,12 @@
 # quotes
 
-A new Flutter project.
+This is just a simple app that uses API calls to get random inspirational quotes.
 
-## Getting Started
+![ic_launcher](https://user-images.githubusercontent.com/92238247/164697165-8b224563-441f-4a65-b6f0-40e194392dbc.png)
 
-This project is a starting point for a Flutter application.
+This is a little peak of how it looks like
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enjoy the views!
+![screen 1](https://user-images.githubusercontent.com/92238247/164699433-c1f50b4c-ea7e-43af-aaf3-7c9d0c5bcca9.png)
+![screen 2](https://user-images.githubusercontent.com/92238247/164699437-158116d7-0e1a-4603-930b-47ad5b506b51.png)
+![app icon](https://user-images.githubusercontent.com/92238247/164699444-b6150b33-2624-45d3-bf47-0b9513e8ba43.png)
